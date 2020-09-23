@@ -1,0 +1,3 @@
+# springcloud-config
+springcloud配置服务器
+这个是springcloud配置中心的外置配置文件
